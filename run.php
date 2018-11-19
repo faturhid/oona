@@ -2,8 +2,8 @@
 session_start();
 set_time_limit(0);
 error_reporting(0);
-$refcode = "DOBXMW";
-$jml = 100;
+$refcode = "GKSMSP";
+$jml = 1000;
 include 'Signature.php';
 	if(isset($refcode))
 	{
